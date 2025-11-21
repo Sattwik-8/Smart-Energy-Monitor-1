@@ -59,12 +59,9 @@ A simulation-based **ESP32 project** that monitors current, calculates power, di
    - Hysteresis for relay stability  
    - Cloud integration (ThingSpeak/Blynk)  
    - Adjustable threshold via buttons or menu  
-
 ---
 
-## Code
+## 👤 Author
 
-The full ESP32 Arduino code is available in `SmartEnergyMonitor.ino`.  
+**Sattwik**  
 
-```cpp
-// Full code here (or link to .ino file)
